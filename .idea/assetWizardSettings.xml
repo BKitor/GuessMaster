@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WizardSettings">
+    <option name="children">
+      <map>
+        <entry key="imageWizard">
+          <value>
+            <PersistentState>
+              <option name="children">
+                <map>
+                  <entry key="imageAssetPanel">
+                    <value>
+                      <PersistentState>
+                        <option name="children">
+                          <map>
+                            <entry key="launcher">
+                              <value>
+                                <PersistentState>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="backgroundAssetType" value="COLOR" />
+                                      <entry key="backgroundColor" value="ffffff" />
+                                      <entry key="backgroundImage" value="C:\Users\bkito\OneDrive\Documents\Queens University\ELEC279\Assignment3\theCreator.jpg" />
+                                      <entry key="backgroundLayerName" value="usab" />
+                                      <entry key="foregroundImage" value="C:\Users\bkito\OneDrive\Documents\Queens University\ELEC279\Assignment3\usaflag.gif" />
+                                      <entry key="foregroundLayerName" value="usaf" />
+                                      <entry key="outputName" value="usa" />
+                                    </map>
+                                  </option>
+                                </PersistentState>
+                              </value>
+                            </entry>
+                          </map>
+                        </option>
+                      </PersistentState>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </PersistentState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
